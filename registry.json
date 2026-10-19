@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "generated_at": "2026-10-19T23:09:33Z",
+  "org": "handshake-project-maser",
+  "cli": {
+    "min_version": "0.0.0",
+    "current": "0.0.0",
+    "sha256": {}
+  },
+  "task_repos": [],
+  "harness_fingerprints": {}
+}
