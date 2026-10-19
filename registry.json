@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-19T23:43:42Z",
+  "generated_at": "2026-10-19T23:58:33Z",
   "org": "handshake-project-maser",
   "cli": {
     "min_version": "0.0.0",
@@ -9,61 +9,31 @@
   },
   "task_repos": [
     {
-      "task_repo": "maser-task-1",
+      "task_repo": "maser-task-01",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-1.1",
-      "prompt_id": "CCP10512",
-      "source_repo": "https://github.com/odoo/odoo",
-      "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
-    },
-    {
-      "task_repo": "maser-task-3",
+      "task_repo": "maser-task-03",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-3.1",
-      "prompt_id": "CCP10827",
-      "source_repo": "https://github.com/spring-projects/spring-batch",
-      "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
-    },
-    {
-      "task_repo": "maser-task-2",
+      "task_repo": "maser-task-02",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-2.1",
-      "prompt_id": "CCP10917",
-      "source_repo": "https://github.com/PokeAPI/pokeapi",
-      "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
-    },
-    {
-      "task_repo": "maser-task-4",
+      "task_repo": "maser-task-04",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-4.1",
-      "prompt_id": "CCP10923",
-      "source_repo": "https://github.com/numpy/numpy",
-      "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
-    },
-    {
-      "task_repo": "maser-task-5",
-      "prompt_id": "CCP11126",
-      "source_repo": "https://github.com/eslint/eslint",
-      "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
-    },
-    {
-      "task_repo": "maser-task-5.1",
+      "task_repo": "maser-task-05",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
