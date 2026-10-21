@@ -3,14 +3,21 @@
   "generated_at": "2026-10-21T22:09:08Z",
   "org": "handshake-project-maser",
   "cli": {
-    "min_version": "1.0.0",
-    "current": "1.0.0",
+    "min_version": "3.3.1",
+    "current": "3.3.1",
     "sha256": {
-      "darwin-arm64": "0a1885915349cc7cca57947c8a75253145e6149a78030d51fe1d4f9f558b06ba",
-      "darwin-amd64": "11e8b56f5aa874e3019355edaf23bb6fb4c341234952cb802b0df638a1133bfd",
-      "linux-amd64": "a370252f8e6d33b18dedde48d89608fd12785ac9e6190238822c825b55244c6d",
-      "linux-arm64": "92adade6fbf8bc02817b2c11ff6c6bc682cc2ce35d17210193094dcc4266542e",
-      "windows-amd64": "f5641b7be495729866bdadf937277336a248ba27cd44092ce2fc2d3fa3381ec5"
+      "darwin-arm64": "faad0eb124e408ac14a75d5882a7a778ae6644071a674aad9a9b90bbac0825e7",
+      "darwin-amd64": "347385a8825cb68a8966c886fe12b0cb91f086f3b4f5386d6fd087140e388af9",
+      "linux-amd64": "bbbccecbe8cc3373fb3aa291d8cd4ba743ecf5ed094e3398ceb9e4a6ce5b459c",
+      "linux-arm64": "09a785d8b9bfb8bda0dadfbc0a318d1515f668673eea056a43d28d5d820cd4e9",
+      "windows-amd64": "fa8bef4f96d6d1ffe972a325fccd543a43eb6c888deb69788bf88b1b9b3b50ea"
+    },
+    "downloads": {
+      "darwin-arm64": "https://github.com/handshake-project-maser/maser-cli/releases/download/v3.3.1/claude-harness-3.3.1-darwin-arm64",
+      "darwin-amd64": "https://github.com/handshake-project-maser/maser-cli/releases/download/v3.3.1/claude-harness-3.3.1-darwin-amd64",
+      "linux-amd64": "https://github.com/handshake-project-maser/maser-cli/releases/download/v3.3.1/claude-harness-3.3.1-linux-amd64",
+      "linux-arm64": "https://github.com/handshake-project-maser/maser-cli/releases/download/v3.3.1/claude-harness-3.3.1-linux-arm64",
+      "windows-amd64": "https://github.com/handshake-project-maser/maser-cli/releases/download/v3.3.1/claude-harness-3.3.1-windows-amd64.exe"
     }
   },
   "task_repos": [
