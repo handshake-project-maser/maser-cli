@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-21T01:37:38Z",
+  "generated_at": "2026-10-21T22:09:08Z",
   "org": "handshake-project-maser",
   "cli": {
     "min_version": "1.0.0",
@@ -21,115 +21,115 @@
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.01",
+      "task_repo": "maser-task-06",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.02",
+      "task_repo": "maser-task-07",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.03",
+      "task_repo": "maser-task-08",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.04",
+      "task_repo": "maser-task-09",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.05",
+      "task_repo": "maser-task-10",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.06",
+      "task_repo": "maser-task-11",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.07",
+      "task_repo": "maser-task-12",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.08",
+      "task_repo": "maser-task-13",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.09",
+      "task_repo": "maser-task-14",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.10",
+      "task_repo": "maser-task-15",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.11",
+      "task_repo": "maser-task-16",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.12",
+      "task_repo": "maser-task-17",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.13",
+      "task_repo": "maser-task-18",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.14",
+      "task_repo": "maser-task-19",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.15",
+      "task_repo": "maser-task-20",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.16",
+      "task_repo": "maser-task-21",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.17",
+      "task_repo": "maser-task-22",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.18",
+      "task_repo": "maser-task-23",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
     },
     {
-      "task_repo": "maser-task-01.19",
+      "task_repo": "maser-task-24",
       "prompt_id": "CCP10512",
       "source_repo": "https://github.com/odoo/odoo",
       "commit_hash": "89d780ea2becbe42e399fc0247e86b6a1e39f5f6"
@@ -141,115 +141,115 @@
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.01",
+      "task_repo": "maser-task-44",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.02",
+      "task_repo": "maser-task-45",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.03",
+      "task_repo": "maser-task-46",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.04",
+      "task_repo": "maser-task-47",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.05",
+      "task_repo": "maser-task-48",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.06",
+      "task_repo": "maser-task-49",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.07",
+      "task_repo": "maser-task-50",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.08",
+      "task_repo": "maser-task-51",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.09",
+      "task_repo": "maser-task-52",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.10",
+      "task_repo": "maser-task-53",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.11",
+      "task_repo": "maser-task-54",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.12",
+      "task_repo": "maser-task-55",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.13",
+      "task_repo": "maser-task-56",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.14",
+      "task_repo": "maser-task-57",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.15",
+      "task_repo": "maser-task-58",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.16",
+      "task_repo": "maser-task-59",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.17",
+      "task_repo": "maser-task-60",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.18",
+      "task_repo": "maser-task-61",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
     },
     {
-      "task_repo": "maser-task-03.19",
+      "task_repo": "maser-task-62",
       "prompt_id": "CCP10827",
       "source_repo": "https://github.com/spring-projects/spring-batch",
       "commit_hash": "91a81b6870657210b6eeb7c072958c0a134ed21c"
@@ -261,115 +261,115 @@
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.01",
+      "task_repo": "maser-task-25",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.02",
+      "task_repo": "maser-task-26",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.03",
+      "task_repo": "maser-task-27",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.04",
+      "task_repo": "maser-task-28",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.05",
+      "task_repo": "maser-task-29",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.06",
+      "task_repo": "maser-task-30",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.07",
+      "task_repo": "maser-task-31",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.08",
+      "task_repo": "maser-task-32",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.09",
+      "task_repo": "maser-task-33",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.10",
+      "task_repo": "maser-task-34",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.11",
+      "task_repo": "maser-task-35",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.12",
+      "task_repo": "maser-task-36",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.13",
+      "task_repo": "maser-task-37",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.14",
+      "task_repo": "maser-task-38",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.15",
+      "task_repo": "maser-task-39",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.16",
+      "task_repo": "maser-task-40",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.17",
+      "task_repo": "maser-task-41",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.18",
+      "task_repo": "maser-task-42",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
     },
     {
-      "task_repo": "maser-task-02.19",
+      "task_repo": "maser-task-43",
       "prompt_id": "CCP10917",
       "source_repo": "https://github.com/PokeAPI/pokeapi",
       "commit_hash": "c6a381a5c45028a814309193ab5061fd60766618"
@@ -381,115 +381,115 @@
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.01",
+      "task_repo": "maser-task-63",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.02",
+      "task_repo": "maser-task-64",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.03",
+      "task_repo": "maser-task-65",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.04",
+      "task_repo": "maser-task-66",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.05",
+      "task_repo": "maser-task-67",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.06",
+      "task_repo": "maser-task-68",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.07",
+      "task_repo": "maser-task-69",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.08",
+      "task_repo": "maser-task-70",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.09",
+      "task_repo": "maser-task-71",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.10",
+      "task_repo": "maser-task-72",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.11",
+      "task_repo": "maser-task-73",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.12",
+      "task_repo": "maser-task-74",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.13",
+      "task_repo": "maser-task-75",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.14",
+      "task_repo": "maser-task-76",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.15",
+      "task_repo": "maser-task-77",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.16",
+      "task_repo": "maser-task-78",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.17",
+      "task_repo": "maser-task-79",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.18",
+      "task_repo": "maser-task-80",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
     },
     {
-      "task_repo": "maser-task-04.19",
+      "task_repo": "maser-task-81",
       "prompt_id": "CCP10923",
       "source_repo": "https://github.com/numpy/numpy",
       "commit_hash": "4357ad1a67e7d4a686c39f3720604b6440725e40"
@@ -501,115 +501,115 @@
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.01",
+      "task_repo": "maser-task-100",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.02",
+      "task_repo": "maser-task-82",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.03",
+      "task_repo": "maser-task-83",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.04",
+      "task_repo": "maser-task-84",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.05",
+      "task_repo": "maser-task-85",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.06",
+      "task_repo": "maser-task-86",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.07",
+      "task_repo": "maser-task-87",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.08",
+      "task_repo": "maser-task-88",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.09",
+      "task_repo": "maser-task-89",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.10",
+      "task_repo": "maser-task-90",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.11",
+      "task_repo": "maser-task-91",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.12",
+      "task_repo": "maser-task-92",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.13",
+      "task_repo": "maser-task-93",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.14",
+      "task_repo": "maser-task-94",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.15",
+      "task_repo": "maser-task-95",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.16",
+      "task_repo": "maser-task-96",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.17",
+      "task_repo": "maser-task-97",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.18",
+      "task_repo": "maser-task-98",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
     },
     {
-      "task_repo": "maser-task-05.19",
+      "task_repo": "maser-task-99",
       "prompt_id": "CCP11126",
       "source_repo": "https://github.com/eslint/eslint",
       "commit_hash": "c5963f74bfa82a5b7ccc0607dcdcc695b8c97a31"
